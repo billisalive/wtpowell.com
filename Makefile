@@ -1,3 +1,3 @@
 server:
-	hugo server --theme=hugo-universal-theme --buildDrafts
+	hugo server  --buildDrafts
 
