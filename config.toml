@@ -12,8 +12,8 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "W. T. Powell"
-    description = "and the Empath Detective Mystery Series"
+    name = "W. T. Powell and the Empath Detective Mystery Series"
+    description = "Mark Falcon never planned to be a detective. Life was hard enough as a broke web developer ... and an empath."
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -33,14 +33,14 @@ theme = "hugo-freelancer-theme"
 	custom_js  = []
 
     [params.navigation]
-        brand = "W. T. Powell"
+        brand = "W. T. Powell, Mystery Writer"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "W. T. Powell"
-        subtitle = "Author of the <em>Empath Detective Mystery Series</em>"
+        subtitle = "Brings you the new Empath Detective Mystery Series"
 
 
     [params.portfolio]
@@ -48,7 +48,7 @@ theme = "hugo-freelancer-theme"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "New Mysteries"
+        title = "New Mysteries in 2017"
 
         [params.portfolio.modal]
             client = "Client"
@@ -63,10 +63,10 @@ theme = "hugo-freelancer-theme"
         left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
         right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
 
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
+        # [params.about.button]
+        #     text = "Download theme"
+        #     link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+        #     icon = "download"
 
 
     [params.contact]
