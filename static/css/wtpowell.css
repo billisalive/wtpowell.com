@@ -1,0 +1,8 @@
+header .container .img-responsive { border-radius: 50%; }
+.img-responsive { border: 50%; }
+
+header, header hr.star-light:after { background: #590909; }
+
+/* Magnifying glass */
+
+hr.star-light:after { content: "\f002"; }
