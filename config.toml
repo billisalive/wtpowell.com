@@ -51,9 +51,9 @@ theme = "hugo-freelancer-theme"
         title = "New Mysteries in 2017"
 
         [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
+            client = "Book"
+            date = "Coming in"
+            category = "Series"
             buttontext = "Close"
 
 
