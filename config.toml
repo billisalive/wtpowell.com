@@ -26,10 +26,10 @@ theme = "hugo-freelancer-theme"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "your@email.com"
+    email = "bill@wtpowell.com"
 
     # Custom assets
-	custom_css = []
+	custom_css = ["css/wtpowell.css"]
 	custom_js  = []
 
     [params.navigation]
@@ -40,7 +40,7 @@ theme = "hugo-freelancer-theme"
         # Copy your own image into './static/img/'' if you wish
         image = "profile.png"
         name = "W. T. Powell"
-        subtitle = "Brings you the new Empath Detective Mystery Series"
+        subtitle = "Presents the new Empath Detective Mystery Series"
 
 
     [params.portfolio]
