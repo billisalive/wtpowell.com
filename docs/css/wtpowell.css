@@ -1,0 +1,13 @@
+.navbar-default { background-color: #230c0c; }
+
+header .container .img-responsive { border-radius: 50%; }
+.img-responsive { border: 50%; }
+
+header .intro-text .skills { font-size: 2.75em; }
+
+header, header hr.star-light:after { background: #590909; }
+
+/* Magnifying glass */
+
+hr.star-primary:after,
+hr.star-light:after { content: "\f002"; }
