@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://wtpowell.com/"
 languageCode = "en-us"
 title = "W. T. Powell and the Empath Detective Mystery Series"
 theme = "hugo-freelancer-theme"
