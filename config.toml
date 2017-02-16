@@ -52,22 +52,25 @@ publishDir = "docs"
         title = "New Mysteries in 2017"
 
         [params.portfolio.modal]
-            client = "Book"
+            book = "Book"
             date = "Coming in"
             category = "Series"
             buttontext = "Close"
 
 
     [params.about]
-        title = "About"
-        # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
+        title = "Mark Falcon never asked to be an empath"
+        # The about text is split into a left and right column
+        left = "Test"
         right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
 
         # [params.about.button]
         #     text = "Download theme"
         #     link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
         #     icon = "download"
+
+    [params.excerpt]
+        title = "Mark Falcon never asked to be an empath (or sense a murder)"
 
 
     [params.contact]
