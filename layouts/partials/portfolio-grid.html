@@ -23,7 +23,7 @@
               <h3>{{ .title | markdownify }}</h3> 
 	      <p><em>{{ with $.Site.Params.portfolio.modal.book }}{{.}}{{ end }} {{ .client }}</em></p>
 	      <p>{{ .description | markdownify }}</p>	
-      	      <p>{{ .date | markdownify }}</p>
+      	      <p><strong>Coming in {{ .date | markdownify }}</strong></p>
             </div>
             {{ end }}
         </div>

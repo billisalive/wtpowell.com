@@ -49,7 +49,7 @@ publishDir = "docs"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "New Mysteries in 2017"
+        title = "Mark Falcon - Coming Soon in 2017!"
 
         [params.portfolio.modal]
             book = "Book"
@@ -58,11 +58,8 @@ publishDir = "docs"
             buttontext = "Close"
 
 
-    [params.about]
-        title = "Mark Falcon never asked to be an empath"
-        # The about text is split into a left and right column
-        left = "Test"
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+    [params.signup]
+        title = "Join the Launch Team and Beta Read the whole book for FREE!"
 
         # [params.about.button]
         #     text = "Download theme"
@@ -74,7 +71,7 @@ publishDir = "docs"
 
 
     [params.contact]
-        title = "Contact"
+        title = "Questions? Comments? Contact!"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
@@ -85,10 +82,6 @@ publishDir = "docs"
             text = "Email Address"
             error = "Please enter your email address."
 
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
-
         [params.contact.form.message]
             text = "Message"
             error = "Please enter a message."
@@ -97,8 +90,8 @@ publishDir = "docs"
             text = "Send"
 
 
-    [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+[params.footer]
+        copyright = "Copyright 2017 W. T. Powell"
 
         [params.footer.location]
             title = "Location"
