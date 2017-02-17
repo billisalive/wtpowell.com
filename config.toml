@@ -6,6 +6,10 @@ theme = "hugo-freelancer-theme"
 
 publishDir = "docs"
 
+
+# Google Analytics
+googleAnalytics = "UA-92181648-1"
+
 [params]
 
     # You can use Markdown syntax for urls [text](//url.to/source) for
